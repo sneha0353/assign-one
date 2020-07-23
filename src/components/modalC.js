@@ -3,6 +3,8 @@ import {Button,
         Modal,
         ModalHeader,
         ModalBody,
+        Row,
+        Col
         } from "reactstrap"
 import {FaTimes} from "react-icons/fa"
 import {Link} from "react-router-dom"
@@ -13,8 +15,12 @@ const ModalComponent=()=>{
     return (
         <div
         style={{
-            marginLeft:"200px"
+            marginLeft:"10px"
         }}
+        >
+        <Row>
+        <Col
+        sm={{ size: 'auto', offset: 1 }}
         >
         <Link to="/about-me">
         <Button
@@ -36,7 +42,7 @@ const ModalComponent=()=>{
       onClick={toggle}>
           Open me!        
       </Button>
-        <Modal isOpen={modal} toggle={toggle} 
+      <Modal isOpen={modal} toggle={toggle} 
         >
         <ModalHeader toggle={toggle}
         >
@@ -47,7 +53,8 @@ const ModalComponent=()=>{
           Hello users!This is Sneha!!!
         </ModalBody>
         </Modal>
-
+        </Col>
+        </Row>
         </div>
     )
 }

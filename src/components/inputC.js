@@ -30,8 +30,10 @@ const handleChange=e=>{
      //const [datas,setDatas]=useState("")
      //data.languages.map(values=>setDatas(values.name))
      return (
-         <div className="home">
+         <div className="home"
+         >
          <ModalComponent/>
+         <br/><br/>
         <Row>
         <Col
         sm={{ size: 'auto', offset: 1 }}
@@ -39,16 +41,15 @@ const handleChange=e=>{
        <br/>
         <h1
         style={{
-            marginLeft:"50px"
+            marginLeft:"10px"
         }}
         >Search for Languages!!</h1>
     <Card body inverse style={{
     backgroundColor:"#00CCCD",
     textAlign:"center",
     marginTop:"50px",
-    marginLeft:"50px",
+    marginLeft:"10px",
     height:"550px",
-    width:"400px",
     border:"5px solid black",
     float:"left"
    }}>
@@ -103,7 +104,7 @@ const handleChange=e=>{
     <Card 
     style={{
         marginTop:"130px",
-        marginLeft:"50px",
+        marginLeft:"10px",
         width:"400px",
         height:"550px",
         backgroundColor:"#FAD02E",
