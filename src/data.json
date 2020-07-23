@@ -1,0 +1,80 @@
+{
+   "languages":[
+     {
+       "name":"CHINESE",
+       "description":"Linguistically speaking, Chinese is a “macrolanguage” that encompasses dozens of different forms and dialects that together have just short of 1.2 billion native speakers. By far the most widely spoken variety of Chinese, however, is Mandarin, with 848 million speakers alone—or roughly 70 percent of China’s entire population. According to the Oxford English Dictionary, Chinese words have been recorded in English since the mid-16th century, with the earliest examples including the likes of tai chi (1736), ginseng (1634), yin and yang (1671), kumquat (1699) and feng shui (1797). One of the earliest of all is lychee (1588). "
+     },
+     {
+       "name":"SPANISH",
+       "description":"One quarter of the world’s 399 million Spanish speakers live in Mexico, although other important Hispanophone countries include Colombia (41 million), Argentina (38.8 million), and Venezuela (26.3 million); there are almost as many native Spanish speakers in the United States (34.2 million) as there are in Spain (38.4 million). In English, Spanish loanwords are characterized by terms from weaponry and the military (guerrilla, flotilla, armada, machete), animal names (chinchilla, alligator, cockroach, iguana), and terms from food and drink (potato, banana, anchovy, vanilla)."
+     },
+     {
+       "name":"ENGLISH",
+       "description":"According to Ethnologue the English language’s 335 million native speakers include 225 million in the United States, 55 million in the United Kingdom, 19 million in Canada, 15 million in Australia, and just short of 4 million in New Zealand. But English is one of the world’s most widespread languages: mother-tongue speakers are recorded in 101 different countries and territories worldwide, 94 of which class it as an official language. Moreover, if the number of people who use English as a second language or lingua franca were included, the global total of English speakers would easily rise to over one billion. "
+     },
+     {
+       "name":"HINDI",
+       "description":"The world’s 260 million native Hindi speakers are mainly found in India and Nepal, while an estimated 120 million more people in India use Hindi as a second language. As with all Indian languages, a great many Hindi loanwords found in English were adopted during the British Raj in the 19th and early 20th centuries, but long before then the likes of rupee (1612), guru (1613), pilau (1609), pukka (1619), myna (1620) and juggernaut (1638) had already begun to appear in English texts. "
+     },
+     {
+       "name":"ARABIC",
+       "description":"Like Chinese, Arabic is technically another macrolanguage whose 242 million native speakers—spread across 60 different countries worldwide—use a range of different forms and varieties. The first Arabic loanwords in English date from the 14th century, although many of the earliest examples are fairly rare and obsolete words like alkanet (a type of dye, 1343) and hardun (an Egyptian agama lizard, 1398). Among the more familiar Arabic contributions to English are hashish (1598), sheikh (1577), and kebab (1698)."
+     },
+     {
+       "name":"PORTUGUESE",
+       "description":"The population of Portugal is just under 11 million, but the global Lusophone population is boosted enormously by Brazil’s 187 million native speakers. Etymologically, Portuguese and Spanish loanwords are often tricky to differentiate because of the similarities between the two languages, but according to the OED, Portuguese is responsible for the likes of marmalade (1480), pagoda (1582), commando (1791), cuspidor (1779), and piranha (1710). "
+    },
+    {
+      "name":"BENGALI",
+      "description":"After Hindi, Bengali is the second most widely spoken language of India with just over 82 million native speakers. But the largest native Bengali population in the world is found in Bangladesh, where 106 million people use it as their first language. The number of Bengali words adopted into English, however, is relatively small, with only 47 instances—including jute (1746), almirah (a free-standing cupboard, 1788), and jampan (a type of sedan chair, 1828)—recorded in the OED. "
+    },
+    {
+      "name":"RUSSIAN",
+      "description":"One hundred and thirty-seven million of Russian’s 166 million native speakers live in the Russian Federation, with smaller populations in Ukraine (8.3 million), Belarus (6.6 million), Uzbekistan (4 million) and Kazakhstan (3.8 million). The earliest Russian loanwords began to appear in English in the 16th century, among them czar or tsar (1555), rouble (1557), and beluga (1591)."
+    },
+    {
+      "name":"JAPANESE",
+      "description":"Japan’s 128 million people comprise the language’s entire native speaker population, enough to make it the ninth most widely spoken language in the world. Japanese words have been appearing in English texts since the 16th century, with some of the earliest loanwords including katana and wacadash (both types of samurai sword, 1613), miso (1615), shogun (1615), and sake (1687). "
+    },
+    {
+      "name":"LAHNDA",
+      "description":"Lahnda is the collective name given to a group of related Punjabi languages and dialects spoken predominantly in Pakistan. Punjabi words adopted into English are rare, but nevertheless include bhangra (a local traditional dance form and music style, 1965), and gurdwara (a Sikh temple, 1909). "
+    },
+    {
+      "name":"JAVANESE",
+      "description":"Java is the most populous island on Earth, home to almost two-thirds of the entire population of Indonesia. More than half of its 139 million inhabitants speak the local Javanese language, enough to earn it a spot just outside of the global top 10 here. The words batik (1880), gamelan (1816) and lahar (a volcanic mudflow, 1929) are all of Javanese origin. "
+    },
+    {
+      "name":"GERMAN",
+      "description":"Seventy million of the world’s 78 million native German speakers live in Germany, with the remaining 8 million found in the likes of Austria, Switzerland, Belgium and Luxembourg. As English itself is classed as a Germanic language, historically the two languages share a close relationship and ultimately many of the oldest English words could be argued to have German roots. More recent direct German loanwords, however, include sauerkraut (1633), pumpernickel (1738), doppelgänger (1851), and frankfurter (1894). "
+    },
+    {
+      "name":"KOREAN",
+      "description":"Korean loanwords in English are relatively rare, with none at all recorded by the OED before the 19th century. Among the most familiar are kimchi (1898) and taekwondo (1967), while rarer examples include kono (a traditional Korean board game, 1895), and kisaeng (the Korean equivalent of a Japanese geisha girl, 1895). "
+    },
+    {
+      "name":"FRENCH",
+      "description":"The world’s 75 million native French speakers are divided among 51 countries and territories, including 7.3 million in Canada, 4 million in Belgium, and 6 million in the Democratic Republic of the Congo (home to the second largest French-speaking population in the world). Thanks largely to the Norman Conquest, roughly three out of every 10 English words are thought to have French roots, and the trend has continued ever since: English has adopted more loanwords directly from French—absinthe, blancmange, concierge, dauphin, envoi, fête, gourmand, hollandaise, impasse—than from any other living language."
+    },
+    {
+      "name":"TELUGU",
+      "description":"Telugu is India’s third  most used languages, with just over 74  native speakers, respectively. Neither is responsible for a great many English loanwords, however, and the vast majority of those that have found their way into the language tend to be fairly rare and unfamiliar, like podu (an area of jungle cleared for farming, from Telugu 1938). By far the most well known is bandicoot, which is thought to literally mean “pig-rat” in Telugu. "
+    },
+    {
+      "name":"TURKISH",
+      "description":"Sixty-six million of the world’s 70 million Turkish speakers are in Turkey, with smaller populations found in Greece, Bulgaria, Romania, Cyprus, and Kazakhstan. Turkish words in English date back to the 16th century, with vizier (1562), tulip (1578) and caftan (1591) being among the earliest to arrive."
+    },
+    {
+      "name":"TAMIL",
+      "description":"Tamil is India’s fifth most spoken language, as well as being one of the official languages of Sri Lanka and Singapore. Catamaran (1697), pariah (1613), poppadum (1820) and patchouli (1843) are all Tamil words, as is curry (1598). "
+    },
+    {
+      "name":"VIETNAMESE",
+      "description":"The OED records just 14 Vietnamese loanwords in English, the earliest of which is the name of the Vietnamese currency, dông (1824). Among the handful of others is pho (a traditional Vietnamese soup, 1935), ao dai (a woman’s high-necked tunic, 1961), and both hao and xu (1968), the names for one-tenth and one-hundredth of a dông, respectively. "
+    },
+    {
+      "name":"URDU",
+      "description":"Urdu is the sixth Indian language to make the global top 20, with its worldwide total comprised of 51 million native Indian speakers, a further 10 million in Pakistan, and smaller populations in Nepal and Mauritius. Urdu words have been adopted into English since the fifteenth century, with surprisingly early examples including mogul (1577), cummerbund (1613), and bungalow (1676). Earliest of all, however, is shrab—an old Anglo-Indian nickname for an alcoholic beverage, the first record of which in English dates from 1477."
+    }
+   ]
+    }
